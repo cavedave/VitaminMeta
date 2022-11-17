@@ -1,0 +1,8 @@
+Source,Design,No_of_Participants,Women_per,Mean_Age_y,Duration_of_Supplement_Treatment_y,Follow_up_y,Beta_Carotene_mg,Vitamin_A_IU,Vitamin_C_mg,Vitamin_E_IU,Selenium_g,url_of_paper
+"Murphy et al,40 1992",Parallel,109,NA,NA,0.003,0.25,,200 000,,,,
+"Greenberg et al,37 1990",Parallel,1805,30,NA,5,5,50,,,,,
+"Penn et al,38 1991",Parallel,30,80,84,0.077,0.077,,8000,100,50,,
+"Greenberg et al,44 1994",2 * 2,864,21,61,4,4,25,,1000,440,,
+"Pike and Chandra,45 1995",Parallel,47,72,69,1,1,,2666,90,45,,
+"Clark et al,49 1996",Parallel,1312,25,63,4.5,7.4,,,,,200,
+"Hennekens et al,50 1996",2 * 2,22 071,0,53,12,12.9,25,,,,,
